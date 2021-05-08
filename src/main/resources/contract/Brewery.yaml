@@ -1,0 +1,24 @@
+---
+$schema: http://json-schema.org/draft-07/schema#
+title: ProblemDetails
+description: Problem Details object as described in RFC 7807.
+type: object
+properties:
+  id:
+    description: A unique identifier of the brewery.
+    type: string
+  name:
+    description: Name of the brewery.
+    type: string
+  type:
+    $ref: ./BreweryType.yaml
+  address:
+    $ref: ./Address.yaml
+  longitude:
+    description: |
+      Geographic coordinate that specifies the east–west position of a point on the Earth's surface.
+    type: number
+  latitude:
+    description: |
+      A geographic coordinate that specifies the north–south position of a point on the Earth's surface.
+    type: number

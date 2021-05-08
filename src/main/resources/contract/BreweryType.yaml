@@ -1,0 +1,17 @@
+---
+$schema: http://json-schema.org/draft-07/schema#
+title: BreweryType
+description: Specifies the type of the brewery.
+type: string
+enum:
+  - MICRO
+  - NANO
+  - REGIONAL
+  - BREWPUB
+  - LARGE
+  - PLANNING
+  - BAR
+  - CONTRACT
+  - PROPRIETOR
+  - CLOSED
+  - UNKNOWN

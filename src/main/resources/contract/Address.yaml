@@ -1,0 +1,18 @@
+---
+$schema: http://json-schema.org/draft-07/schema#
+title: Address
+description: Particulars of a place where a brewery is located.
+type: object
+properties:
+  street:
+    description: Name and number of the street.
+    type: string
+  postcode:
+    description: Postal code of the street.
+    type: string
+  city:
+    description: Name of the city.
+    type: string
+  state:
+    description: Name of the federal state.
+    type: string
