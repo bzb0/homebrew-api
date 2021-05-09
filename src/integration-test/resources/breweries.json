@@ -1,0 +1,264 @@
+{
+  "breweries": [
+    {
+      "id": "9094",
+      "name": "Bnaf, LLC",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "78727-7602",
+        "city": "Austin",
+        "state": "Texas"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "9180",
+      "name": "Boulder Beer Co",
+      "type": "REGIONAL",
+      "address": {
+        "street": "2880 Wilderness Pl",
+        "postcode": "80301-5401",
+        "city": "Boulder",
+        "state": "Colorado"
+      },
+      "longitude": -105.2480158,
+      "latitude": 40.026439
+    },
+    {
+      "id": "9754",
+      "name": "Clermont Brewing Company",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "34711-2108",
+        "city": "Clermont",
+        "state": "Florida"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "10186",
+      "name": "Dimensional Brewing Co.",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "52001",
+        "city": "Dubuque",
+        "state": "Iowa"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "10217",
+      "name": "Dixie Brewing Co Inc.",
+      "type": "CONTRACT",
+      "address": {
+        "street": "6221 S Claiborne Ave Ste 101",
+        "postcode": "70125-4191",
+        "city": "New Orleans",
+        "state": "Louisiana"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "10486",
+      "name": "Epidemic Ales",
+      "type": "MICRO",
+      "address": {
+        "street": "150 Mason Circle Stes I&J",
+        "postcode": "94520",
+        "city": "Concord",
+        "state": "California"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "11039",
+      "name": "Goose Island Philadelphia",
+      "type": "BREWPUB",
+      "address": {
+        "street": "1002 Canal St",
+        "postcode": "19123",
+        "city": "Philadelphia",
+        "state": "Pennsylvania"
+      },
+      "longitude": -75.13506341,
+      "latitude": 39.9648491
+    },
+    {
+      "id": "11235",
+      "name": "GRITS Brewing",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "30341-2024",
+        "city": "Chamblee",
+        "state": "Georgia"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "11767",
+      "name": "Ironbark Brewery",
+      "type": "MICRO",
+      "address": {
+        "street": "2610 Kibby Rd",
+        "postcode": "49203-4908",
+        "city": "Jackson",
+        "state": "Michigan"
+      },
+      "longitude": -84.43762976,
+      "latitude": 42.2188971
+    },
+    {
+      "id": "11968",
+      "name": "King Fox Brewery",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "33014-5231",
+        "city": "Hialeah",
+        "state": "Florida"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "12023",
+      "name": "La Funke Brewing",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "78163-4156",
+        "city": "Bulverde",
+        "state": "Texas"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "12294",
+      "name": "Long Way Brewing",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "24141-1403",
+        "city": "Radford",
+        "state": "Virginia"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "12459",
+      "name": "Mallory Brewing",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "77018",
+        "city": "Houston",
+        "state": "Texas"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "12202",
+      "name": "Lincoln Avenue Brewery",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "15202",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "13018",
+      "name": "Northwoods Brewing Co",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "3261",
+        "city": "Northwood",
+        "state": "New Hampshire"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "12705",
+      "name": "Mobtown Brewing Co",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "21224-4716",
+        "city": "Baltimore",
+        "state": "Maryland"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "14347",
+      "name": "SKA Brewing",
+      "type": "REGIONAL",
+      "address": {
+        "street": "225 Girard, Bodo Park",
+        "postcode": "81303-6827",
+        "city": "Durango",
+        "state": "Colorado"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "14417",
+      "name": "Snow Belt Brew",
+      "type": "MICRO",
+      "address": {
+        "street": "9511 Kile Rd",
+        "postcode": "44024",
+        "city": "Chardon",
+        "state": "Ohio"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "12773",
+      "name": "Mosaic Brewing",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "43130-4308",
+        "city": "Lancaster",
+        "state": "Ohio"
+      },
+      "longitude": null,
+      "latitude": null
+    },
+    {
+      "id": "14677",
+      "name": "Straight Shot Brewing",
+      "type": "PLANNING",
+      "address": {
+        "street": null,
+        "postcode": "23662-0000",
+        "city": "Poquoson",
+        "state": "Virginia"
+      },
+      "longitude": null,
+      "latitude": null
+    }
+  ]
+}
