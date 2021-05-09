@@ -1,0 +1,13 @@
+{
+  "id": "11039",
+  "name": "Goose Island Philadelphia",
+  "type": "BREWPUB",
+  "address": {
+    "street": "1002 Canal St",
+    "postcode": "19123",
+    "city": "Philadelphia",
+    "state": "Pennsylvania"
+  },
+  "longitude": -75.13506341,
+  "latitude": 39.9648491
+}
