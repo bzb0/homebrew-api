@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Brewery API
+  title: Homebrew API
   description: Returns a list and details for available breweries in the USA.
   version: 1.0.0
 
